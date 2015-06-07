@@ -5,3 +5,5 @@ if [ -x /usr/bin/python2 ]; then
 else
     python -B contemplate_koans.py
 fi
+
+exit 0
